@@ -1,0 +1,105 @@
+.stand_by_me {
+    width: 445px;
+    height: 650px;
+    background-color: #fafafa;
+    border: solid 1px #e2e2e2;
+    margin-top: 40px;
+}
+
+.soldier {
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    color: #C8C8C8;
+    margin-top: 25px;
+    font-size: 17px !important;
+    line-height: 21px !important;
+    margin-bottom: 25px;
+}
+
+.war_of_hearts {
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+    margin-top: 30px;
+}
+
+.the_shore b {
+    font-size: 12px !important;
+    line-height: 14px!important;
+    color: black;
+    font-family: "Rozha One", serif !important;
+    display: inline-block;
+    font-weight: normal;
+    margin-left: 15px;
+    border-left: 1px solid #e2e2e2;
+    padding-left: 10px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.the_shore {
+    font-family: "Open Sans", sans-serif;
+    color: #858585;
+    text-align: justify;
+    font-size: 11px!important;
+    height: 380px;
+    background-color: #fafafa;
+    overflow-y: scroll;
+    line-height: 14px;
+    width: 320px;
+    margin-top: 25px;
+    overflow-x: hidden;
+    padding-right: 10px;
+    margin-right: -30px !important;
+}
+.the_shore:first-letter {
+    font-size: 50px !important;
+    margin-right: 10px;
+    float: left;
+    padding: 10px;
+    line-height: 50px;
+    font-family: "Rozha One", serif;
+    color: black;
+}
+
+.the_shore strong {
+    color: #D4AF37 !important;
+    font-family: "Courgette", cursive;
+    font-weight: normal;
+  font-style: normal;
+    letter-spacing: 0.6px;
+}
+
+.night_of_the_hunter {
+    height: 1px;
+    background-color: #e2e2e2;
+    width: 390px;
+}
+
+#search_and_destroy {
+    margin-top: 35px;
+}
+
+.glitter_and_gold {
+    color: #828282;
+    font-size: 14px !important;
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
+
+.the_shore::-webkit-scrollbar {
+    width: 10px;
+}
+
+.the_shore::-webkit-scrollbar-thumb {
+     border-radius: 10px;
+     visibility: hidden;
+}
+
+.the_shore::-webkit-scrollbar-track {
+    visibility: hidden;
+}
+
+.the_shore::-webkit-scrollbar-thumb:hover {
+    background-color: #CCC;
+    visibility: visible;
+}
